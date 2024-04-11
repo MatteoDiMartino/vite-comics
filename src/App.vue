@@ -1,9 +1,12 @@
 <script>
 import boxheader from './components/boxheader.vue';
+import boxmain from './components/boxmain.vue';
+
 
 export default {
   components: {
-    boxheader
+    boxheader,
+    boxmain
   }
 }
 
@@ -12,6 +15,7 @@ export default {
 <template>
 
 <boxheader></boxheader>
+<boxmain></boxmain>
 
 </template>
 
