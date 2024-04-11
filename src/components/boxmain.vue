@@ -18,11 +18,11 @@
             </div>
         </section>
 
-        <section class="ms-blue-box">
+        <section class="ms-blue-box d-flex align-items-center">
             <div class="container">
                 <div class="row">
                     <div class="ms-main-col-blue-area col py-3">
-                        <div class="d-flex ms-img align-items-center">
+                        <div class="ms-img">
                             <div>
                                 <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics">
                                 <span class="text-white fw-bold">DIGITAL COMICS</span>
