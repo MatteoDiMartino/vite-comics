@@ -23,10 +23,15 @@
                 <div class="row">
                     <div class="ms-main-col-blue-area col py-3">
                         <div class=" d-flex justify-content-center align-items-center">
-                            <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics">
-                            <img src="../assets/img/buy-comics-merchandise.png" alt="merch-comics">
-                            <img src="../assets/img/buy-comics-subscriptions.png" alt="sub-comics">
-                            <img src="../assets/img/buy-comics-shop-locator.png" alt="shop-comics">
+                            <div class="ms-img">
+                                <div>
+                                    <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics">
+                                    <span class="text-white fw-bold">DIGITAL COMICS</span>
+                                </div>
+                                <img src="../assets/img/buy-comics-merchandise.png" alt="merch-comics">
+                                <img src="../assets/img/buy-comics-subscriptions.png" alt="sub-comics">
+                                <img src="../assets/img/buy-comics-shop-locator.png" alt="shop-comics">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -43,8 +48,15 @@
     background-color: #0282f9;
 
     .ms-main-col-blue-area  {
-        img {
-            width: 80px;
+        .ms-img {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            img {
+                margin: 0 10px;
+                width: 80px;
+            }
         }
     }
 }
