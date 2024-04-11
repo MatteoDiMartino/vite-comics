@@ -21,8 +21,10 @@
         <section class="ms-blue-box">
             <div class="container">
                 <div class="row">
-                    <div class="col">
-                        ciao
+                    <div class="col py-3">
+                        <div>
+                            <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics">
+                        </div>
                     </div>
                 </div>
             </div>
