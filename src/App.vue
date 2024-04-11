@@ -1,18 +1,17 @@
 <script>
+import boxheader from './components/boxheader.vue';
 
-  import Header from './components/element-header.vue';
-
-  export default {
-    components: {
-      element-header
-    }
+export default {
+  components: {
+    boxheader
   }
+}
 
 </script>
 
 <template>
 
-<element-header></element-header>
+<boxheader></boxheader>
 
 </template>
 
