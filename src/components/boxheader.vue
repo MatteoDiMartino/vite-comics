@@ -14,7 +14,29 @@ export default {
             <div class="col ms-box1header">
                 <img src="../assets/img/dc-logo.png" alt="dc-logo" class="py-2">
             </div>
-            <div class="col ms-box2header"></div>
+            <div class="col ms-box2header">
+                <ul>
+                    <li>
+                        <a href="#">link</a>
+                    </li>
+
+                    <li>
+                        <a href="#">link</a>
+                    </li>
+
+                    <li>
+                        <a href="#">link</a>
+                    </li>
+
+                    <li>
+                        <a href="#">link</a>
+                    </li>
+
+                    <li>
+                        <a href="#">link</a>
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
 </header>
@@ -31,5 +53,17 @@ export default {
 
 }
 
+
+.ms-box2header {
+
+    ul {
+        display: flex;
+        list-style: none;
+    }
+
+    a {
+        text-decoration: none;
+    }
+}
 
 </style>
