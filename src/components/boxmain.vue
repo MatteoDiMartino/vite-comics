@@ -17,15 +17,30 @@
                 </div>
             </div>
         </section>
+
+        <section class="ms-blue-box">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        ciao
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
 
 </template>
 
 <style scoped lang="scss">
 
-.ms-main-col {
+.ms-blue-box {
+    height: 200px;
+    background-color: #0282f9;
+}
 
-    height: 250px;
+
+.ms-main-col {
+    height: 160px;
     display: flex;
     align-items: center;
 
