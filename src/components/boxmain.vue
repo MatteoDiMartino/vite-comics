@@ -7,7 +7,7 @@
 </script>
 
 <template>
-    <main class="bg-black">
+    <main class="bg-black py-3">
         <div class="container">
             <div class="row">
                 <div class="col">
