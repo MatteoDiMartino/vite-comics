@@ -28,9 +28,18 @@
                                     <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics">
                                     <span class="text-white fw-bold">DIGITAL COMICS</span>
                                 </div>
-                                <img src="../assets/img/buy-comics-merchandise.png" alt="merch-comics">
-                                <img src="../assets/img/buy-comics-subscriptions.png" alt="sub-comics">
-                                <img src="../assets/img/buy-comics-shop-locator.png" alt="shop-comics">
+                                <div>
+                                    <img src="../assets/img/buy-comics-merchandise.png" alt="merch-comics">
+                                    <span class="text-white fw-bold">DC MERCHANDISE</span>
+                                </div>
+                                <div>
+                                    <img src="../assets/img/buy-comics-subscriptions.png" alt="sub-comics">
+                                    <span class="text-white fw-bold">SUBSCRIPTION</span>
+                                </div>
+                                <div>
+                                    <img src="../assets/img/buy-comics-shop-locator.png" alt="shop-comics">
+                                    <span class="text-white fw-bold">COMIC SHOP LOCATOR</span>
+                                </div>
                             </div>
                         </div>
                     </div>
