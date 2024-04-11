@@ -21,21 +21,12 @@
         <section class="ms-blue-box">
             <div class="container">
                 <div class="row">
-                    <div class="col py-3 d-flex">
-                        <div>
+                    <div class="ms-main-col-blue-area col py-3">
+                        <div class=" d-flex justify-content-center align-items-center">
                             <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics">
-                        </div>
-
-                        <div>
-                            <img src="../assets/img/buy-comics-merchandise.png" alt="digital-comics">
-                        </div>
-
-                        <div>
-                            <img src="../assets/img/buy-comics-subscriptions.png" alt="digital-comics">
-                        </div>
-
-                        <div>
-                            <img src="../assets/img/buy-comics-shop-locator.png" alt="digital-comics">
+                            <img src="../assets/img/buy-comics-merchandise.png" alt="merch-comics">
+                            <img src="../assets/img/buy-comics-subscriptions.png" alt="sub-comics">
+                            <img src="../assets/img/buy-comics-shop-locator.png" alt="shop-comics">
                         </div>
                     </div>
                 </div>
@@ -50,6 +41,12 @@
 .ms-blue-box {
     height: 200px;
     background-color: #0282f9;
+
+    .ms-main-col-blue-area  {
+        img {
+            width: 80px;
+        }
+    }
 }
 
 
