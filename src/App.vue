@@ -17,9 +17,10 @@ export default {
 
 <template>
 
-<boxheader></boxheader>
-<boxmain></boxmain>
-<boxfooter></boxfooter>
+  <boxheader></boxheader>
+  <boxmain></boxmain>
+  <boxfooter></boxfooter>
+
 </template>
 
 <style lang="scss">
