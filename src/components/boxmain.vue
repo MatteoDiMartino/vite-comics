@@ -22,27 +22,27 @@
             <div class="container">
                 <div class="row ms-main-col-blue-area py-3">
                     <div class="ms-img">
-                        <div class="col">
+                        <div class="col d-flex justify-content-center align-items-center">
                             <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics" class="ms-0">
                             <span class="text-white fw-bold">DIGITAL COMICS</span>
                         </div>
 
-                        <div class="col">
+                        <div class="col d-flex justify-content-center align-items-center">
                             <img src="../assets/img/buy-comics-merchandise.png" alt="merch-comics">
                             <span class="text-white fw-bold">DC MERCHANDISE</span>
                         </div>
 
-                        <div class="col">
+                        <div class="col d-flex justify-content-center align-items-center">
                             <img src="../assets/img/buy-comics-subscriptions.png" alt="sub-comics">
                             <span class="text-white fw-bold">SUBSCRIPTION</span>
                         </div>
 
-                        <div class="col">
-                            <img src="../assets/img/buy-comics-shop-locator.png" alt="shop-comics">
+                        <div class="col d-flex justify-content-center align-items-center">
+                            <img src="../assets/img/buy-comics-shop-locator.png" alt="shop-comics" class="ms-shop-img">
                             <span class="text-white fw-bold">COMIC SHOP LOCATOR</span>
                         </div>
 
-                        <div class="col">
+                        <div class="col d-flex justify-content-center align-items-center">
                             <img src="../assets/img/buy-dc-power-visa.svg" alt="shop-comics">
                             <span class="text-white fw-bold">DC POWER VISA</span>
                         </div>
@@ -67,12 +67,16 @@
             align-items: center;
 
             img {
-                margin: 0 10px 0 11px;
+                margin: 0 10px 0 10px;
                 width: 50px;
             }
 
             span {
-                font-size: 15px;
+                font-size: 14px;
+            }
+
+            .ms-shop-img {
+                width: 30px;
             }
         }
     }
