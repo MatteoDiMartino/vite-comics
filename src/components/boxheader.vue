@@ -12,7 +12,7 @@ export default {
     <div class="container">
         <div class="row">
             <div class="col ms-box1header">
-                <img src="../assets/img/dc-logo.png" alt="dc-logo" class="py-2">
+                <img src="../assets/img/dc-logo.png" alt="dc-logo" class="py-3">
             </div>
             <div class="col ms-box2header d-flex justify-content-end align-items-center">
                 <ul>
@@ -68,7 +68,7 @@ export default {
 .ms-box1header {
 
     img {
-        width: 90px;
+        width: 80px;
     }
 
 }
