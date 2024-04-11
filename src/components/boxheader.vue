@@ -35,6 +35,26 @@ export default {
                     <li>
                         <a href="#">link</a>
                     </li>
+
+                    <li>
+                        <a href="#">link</a>
+                    </li>
+
+                    <li>
+                        <a href="#">link</a>
+                    </li>
+
+                    <li>
+                        <a href="#">link</a>
+                    </li>
+
+                    <li>
+                        <a href="#">link</a>
+                    </li>
+
+                    <li>
+                        <a href="#">link</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -52,7 +72,6 @@ export default {
     }
 
 }
-
 
 .ms-box2header {
 
