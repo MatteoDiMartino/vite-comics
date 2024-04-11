@@ -11,8 +11,48 @@ export default {
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col">
-                ciao
+            <div class="col ms-list-footer">
+                <ul>
+                    DC COMICS
+                    <li>
+                        <a href="#"></a>
+                    </li>
+
+                    <li>
+                        <a href="#"></a>
+                    </li>
+
+                    <li>
+                        <a href="#"></a>
+                    </li>
+
+                    <li>
+                        <a href="#"></a>
+                    </li>
+
+                    <li>
+                        <a href="#"></a>
+                    </li>
+
+                    <li>
+                        <a href="#"></a>
+                    </li>
+
+                    <li>
+                        <a href="#"></a>
+                    </li>
+                </ul>
+
+                <ul>
+                    SHOP
+                    <li>
+                        <a href=""></a>
+                    </li>
+
+                    <li>
+                        <a href=""></a>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -21,4 +61,13 @@ export default {
 </template>
 
 
-<style scoped lang="scss"></style>
+<style scoped lang="scss">
+
+.ms-list-footer {
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+}
+
+</style>
