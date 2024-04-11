@@ -17,43 +17,43 @@ export default {
             <div class="col ms-box2header d-flex justify-content-end align-items-center">
                 <ul>
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">CHARACTERS</a>
                     </li>
 
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">COMICS</a>
                     </li>
 
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">MOVIES</a>
                     </li>
 
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">TV</a>
                     </li>
 
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">GAMES</a>
                     </li>
 
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">COLLECTIBLES</a>
                     </li>
 
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">VIDEOS</a>
                     </li>
 
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">FANS</a>
                     </li>
 
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">NEWS</a>
                     </li>
 
                     <li>
-                        <a href="#">link</a>
+                        <a href="#">SHOP</a>
                     </li>
                 </ul>
             </div>
@@ -86,7 +86,7 @@ export default {
 
     a {
         text-decoration: none;
-        font-size: 18px;
+        font-size: 14px;
     }
 }
 
