@@ -8,13 +8,15 @@
 
 <template>
     <main class="bg-black">
-        <div class="container">
-            <div class="row">
-                <div class="col ms-main-col">
-                    <span class="text-white fw-bold"> --> Content goes here <-- </span>
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col ms-main-col">
+                        <span class="text-white fw-bold"> --> Content goes here <-- </span>
+                    </div>
                 </div>
             </div>
-        </div>
+        </section>
     </main>
 
 </template>
