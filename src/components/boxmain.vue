@@ -7,11 +7,11 @@
 </script>
 
 <template>
-    <main>
+    <main class="bg-black">
         <div class="container">
             <div class="row">
                 <div class="col">
-                    ciao
+                    <span class="text-white fw-bold">test</span>
                 </div>
             </div>
         </div>
