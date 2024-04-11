@@ -24,7 +24,7 @@
                     <div class="ms-main-col-blue-area col py-3">
                         <div class="ms-img">
                             <div>
-                                <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics">
+                                <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics" class="m-0">
                                 <span class="text-white fw-bold">DIGITAL COMICS</span>
                             </div>
 
