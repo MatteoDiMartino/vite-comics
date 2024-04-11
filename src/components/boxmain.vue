@@ -21,9 +21,21 @@
         <section class="ms-blue-box">
             <div class="container">
                 <div class="row">
-                    <div class="col py-3">
+                    <div class="col py-3 d-flex">
                         <div>
                             <img src="../assets/img/buy-comics-digital-comics.png" alt="digital-comics">
+                        </div>
+
+                        <div>
+                            <img src="../assets/img/buy-comics-merchandise.png" alt="digital-comics">
+                        </div>
+
+                        <div>
+                            <img src="../assets/img/buy-comics-subscriptions.png" alt="digital-comics">
+                        </div>
+
+                        <div>
+                            <img src="../assets/img/buy-comics-shop-locator.png" alt="digital-comics">
                         </div>
                     </div>
                 </div>
