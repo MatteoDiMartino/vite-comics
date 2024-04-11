@@ -14,7 +14,7 @@ export default {
             <div class="col ms-box1header">
                 <img src="../assets/img/dc-logo.png" alt="dc-logo" class="py-2">
             </div>
-            <div class="col ms-box2header d-flex justify-content-end">
+            <div class="col ms-box2header d-flex justify-content-end align-items-center">
                 <ul>
                     <li>
                         <a href="#">link</a>
@@ -59,6 +59,10 @@ export default {
     ul {
         display: flex;
         list-style: none;
+    }
+
+    li {
+        padding-left: 12px;
     }
 
     a {
