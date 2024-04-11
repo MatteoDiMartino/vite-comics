@@ -40,6 +40,12 @@
                                     <img src="../assets/img/buy-comics-shop-locator.png" alt="shop-comics">
                                     <span class="text-white fw-bold">COMIC SHOP LOCATOR</span>
                                 </div>
+                                <div>
+                                    <img src="../assets/img/buy-dc-power-visa.svg" alt="shop-comics">
+                                    <span class="text-white fw-bold">DC POWER VISA</span>
+
+                                </div>
+
                             </div>
                         </div>
                     </div>
