@@ -1,10 +1,10 @@
 <script>
 
-  import AppTitle from './components/AppTitle.vue'
+  import Header from './components/element-header.vue';
 
   export default {
     components: {
-      AppTitle
+      element-header
     }
   }
 
@@ -12,7 +12,7 @@
 
 <template>
 
-  <AppTitle></AppTitle>
+<element-header></element-header>
 
 </template>
 
