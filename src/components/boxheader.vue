@@ -87,6 +87,11 @@ export default {
     a {
         text-decoration: none;
         font-size: 14px;
+
+        &:hover {
+            padding-bottom: 40px;
+            border-bottom: 3px solid blueviolet;
+        }
     }
 }
 
