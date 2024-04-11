@@ -14,7 +14,7 @@ export default {
             <div class="col ms-box1header">
                 <img src="../assets/img/dc-logo.png" alt="dc-logo" class="py-2">
             </div>
-            <div class="col ms-box2header">
+            <div class="col ms-box2header d-flex justify-content-end">
                 <ul>
                     <li>
                         <a href="#">link</a>
