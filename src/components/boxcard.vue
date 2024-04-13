@@ -13,7 +13,7 @@
                         <img src="" alt="illustration img">
                     </div>
                 </div>
-                <h1 class="text-white">ciao</h1>
+                <span class="text-white">ciao</span>
             </div>
         </div>
     </div>
