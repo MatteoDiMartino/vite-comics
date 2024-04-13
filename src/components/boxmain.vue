@@ -17,7 +17,6 @@
                 <div class="row">
                     <div class="col ms-main-col">
                         <boxcard></boxcard>
-                        <span class="text-white fw-bold"> --> Content goes here <-- </span>
                     </div>
                 </div>
             </div>

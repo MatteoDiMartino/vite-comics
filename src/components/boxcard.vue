@@ -8,12 +8,22 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1>ciao</h1>
+                <div class="ms-card text-white">
+                    <div class="d-flex justify-content-center">
+                        <img src="" alt="illustration img">
+                    </div>
+                    <h1 class="text-white d-flex justify-content-center">ciao</h1>
+                </div>
             </div>
         </div>
     </div>
 </template>
 
-<style>
+<style scoped lang="scss">
+
+.ms-card {
+    width: 20%;
+    background-color: blue;
+}
 
 </style>
