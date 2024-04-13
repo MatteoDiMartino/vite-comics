@@ -1,7 +1,11 @@
 <script>
+    import boxcard from './boxcard.vue';
 
     export default {
-        name: 'boxmain'
+        name: 'boxmain',
+        components: {
+            boxcard
+        }
     }
 
 </script>
@@ -12,6 +16,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col ms-main-col">
+                        <boxcard></boxcard>
                         <span class="text-white fw-bold"> --> Content goes here <-- </span>
                     </div>
                 </div>
