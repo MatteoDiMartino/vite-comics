@@ -16,7 +16,23 @@
             <div class="container">
                 <div class="row">
                     <div class="col ms-main-col">
-                        <boxcard></boxcard>
+                        <div class="col">
+                            <boxcard></boxcard>
+                        </div>
+
+                        <div class="col">
+                            <boxcard></boxcard>
+                        </div>
+
+                        <div class="col">
+                            <boxcard></boxcard>
+                        </div>
+                        
+                        <div class="col">
+                            <boxcard></boxcard>
+                        </div>
+
+                        
                     </div>
                 </div>
             </div>

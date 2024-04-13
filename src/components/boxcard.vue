@@ -6,7 +6,7 @@
 
 <template>
     <div class="container">
-        <div class="row ms-box">
+        <div class="row">
             <div class="col">
                 <div class="ms-card text-white text-center">
                     <div class="d-flex justify-content-center">
@@ -15,61 +15,6 @@
                 </div>
                 <span class="text-white">ciao</span>
             </div>
-
-            <div class="col">
-                <div class="ms-card text-white text-center">
-                    <div class="d-flex justify-content-center">
-                        <img src="" alt="illustration img">
-                    </div>
-                </div>
-                <span class="text-white">ciao</span>
-            </div>
-
-            <div class="col">
-                <div class="ms-card text-white text-center">
-                    <div class="d-flex justify-content-center">
-                        <img src="" alt="illustration img">
-                    </div>
-                </div>
-                <span class="text-white">ciao</span>
-            </div>
-
-            <div class="col">
-                <div class="ms-card text-white text-center">
-                    <div class="d-flex justify-content-center">
-                        <img src="" alt="illustration img">
-                    </div>
-                </div>
-                <span class="text-white">ciao</span>
-            </div>
-
-            <div class="col">
-                <div class="ms-card text-white text-center">
-                    <div class="d-flex justify-content-center">
-                        <img src="" alt="illustration img">
-                    </div>
-                </div>
-                <span class="text-white">ciao</span>
-            </div>
-
-            <div class="col">
-                <div class="ms-card text-white text-center">
-                    <div class="d-flex justify-content-center">
-                        <img src="" alt="illustration img">
-                    </div>
-                </div>
-                <span class="text-white">ciao</span>
-            </div>
-            <div class="col">
-                <div class="ms-card text-white text-center">
-                    <div class="d-flex justify-content-center">
-                        <img src="" alt="illustration img">
-                    </div>
-                </div>
-                <span class="text-white">ciao</span>
-            </div>
-
-            
         </div>
     </div>
 </template>
