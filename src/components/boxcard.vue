@@ -8,7 +8,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <div class="ms-card text-white">
+                <div class="ms-card text-white text-center">
                     <div class="d-flex justify-content-center">
                         <img src="" alt="illustration img">
                     </div>
@@ -22,7 +22,8 @@
 <style scoped lang="scss">
 
 .ms-card {
-    width: 20%;
+    padding: 10px;
+    width: 120px;
     background-color: blue;
 }
 
