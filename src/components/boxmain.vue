@@ -91,7 +91,8 @@
     height: 160px;
     display: flex;
     align-items: center;
-
+    flex-wrap: wrap;
+    flex-shrink: 0;
     span {
         font-size: 23px;
     }
