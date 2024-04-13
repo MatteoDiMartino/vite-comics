@@ -12,8 +12,8 @@
                     <div class="d-flex justify-content-center">
                         <img src="" alt="illustration img">
                     </div>
-                    <h1 class="text-white d-flex justify-content-center">ciao</h1>
                 </div>
+                <h1 class="text-white">ciao</h1>
             </div>
         </div>
     </div>
